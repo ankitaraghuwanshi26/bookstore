@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "read stories.",
+    "price": 0,
+    "category": "Free",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Laugh Out Loud: A Comedy Delight",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Adventure Book",
+    "title": "Embark on a thrilling journey across uncharted lands.",
+    "price": 25,
+    "category": "Adventure",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "Unlock the mysteries of the universe with fascinating facts.",
+    "price": 30,
+    "category": "Educational",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 5,
+    "name": "History Book",
+    "title": "Discover the stories that shaped our world.",
+    "price": 15,
+    "category": "Historical",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Book",
+    "title": "Dive into a magical world filled with wonders.",
+    "price": 35,
+    "category": "Fantasy",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Romantic Book",
+    "title": "Experience a beautiful tale of love and destiny.",
+    "price": 18,
+    "category": "Romance",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mystery Book",
+    "title": "Solve puzzling mysteries and unravel secrets.",
+    "price": 22,
+    "category": "Mystery",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Self-Help Book",
+    "title": "Empower yourself with practical life lessons.",
+    "price": 12,
+    "category": "Self-Help",
+    "image": "/books.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Thriller Book",
+    "title": "Get on the edge of your seat with this nail-biting thriller.",
+    "price": 28,
+    "category": "Thriller",
+    "image": "/books.jpg"
+  }
+]
